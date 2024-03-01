@@ -31,9 +31,6 @@ input[type="submit"] {
     padding: 10px;
     margin: 8px 0;
     box-sizing: border-box;
- 
-	
-	
 }
 
 input[type="submit"] {
@@ -55,7 +52,6 @@ input[type="submit"]:hover {
 }
 
 @media only screen and (max-width: 400px) {
-    }
 }
 
 .cookie-regular {
@@ -64,12 +60,15 @@ input[type="submit"]:hover {
     font-style: normal;
 }
 
-h1 { 
-	font-family: "Cookie";
-	font-size: 100px; 
-	color: #6D4C41;
+h1 {
+    font-family: "Cookie";
+    font-size: 100px;
+    color: #6D4C41;
 }
+
 input[type="checkbox"] {
-    flex: none; 
+    flex: none;
     margin-right: 10px;
+}
+
 
