@@ -60,23 +60,8 @@ input[type="submit"]:hover {
 @media only screen and (max-width: 400px) {
     .container {
         padding: 10px;
+    }
 }
 
-.cookie-regular {
-    font-family: "Cookie", cursive;
-    font-weight: 400;
-    font-style: normal;
-}
-
-h1 {
-    font-family: "Cookie";
-    font-size: 100px;
-    color: #6D4C41;
-}
-
-input[type="checkbox"] {
-    flex: none;
-    margin-right: 10px;
-}
 
 
